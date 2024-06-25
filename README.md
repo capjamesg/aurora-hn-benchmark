@@ -1,6 +1,6 @@
 # Aurora Benchmark
 
-This repository contains code used to benchmark the Aurora static site generator.
+This repository contains code used to benchmark the [Aurora static site generator](https://aurora.jamesg.blog).
 
 ## About this Benchmark
 
